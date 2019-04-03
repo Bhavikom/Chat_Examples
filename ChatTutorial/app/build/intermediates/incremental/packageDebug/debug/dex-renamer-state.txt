@@ -1,0 +1,4 @@
+#Thu Feb 07 11:56:04 IST 2019
+base.0=E\:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatTutorial\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\18
+path.0=classes.dex
+renamed.0=classes.dex

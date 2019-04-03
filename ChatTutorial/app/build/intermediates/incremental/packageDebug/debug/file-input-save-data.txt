@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Wed Feb 06 14:56:13 IST 2019
+0.baseType=DIRECTORY
+0.base=E\:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatTutorial\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\18
+0.path=classes.dex
+0.set=DEX
+count=1

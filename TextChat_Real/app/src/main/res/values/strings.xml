@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TextChat</string>
+    <string name="title_section1">Favourites</string>
+    <string name="title_section2">User List</string>
+    <string name="title_section3">Contacts</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="user1_login">dharmesh</string>
+    <string name="user1_password">9624300677</string>
+    <string name="server">192.168.56.1</string>
+    <string name="server_host">192.168.56.1</string>
+</resources>

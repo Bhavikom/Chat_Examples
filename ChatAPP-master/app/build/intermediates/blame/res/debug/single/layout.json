@@ -1,0 +1,554 @@
+[
+    {
+        "merged": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_roster_list.xml",
+        "source": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\src\\main\\res\\layout\\activity_roster_list.xml"
+    },
+    {
+        "merged": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_group_list.xml",
+        "source": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\src\\main\\res\\layout\\activity_group_list.xml"
+    },
+    {
+        "merged": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_group_chat.xml",
+        "source": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\src\\main\\res\\layout\\content_group_chat.xml"
+    },
+    {
+        "merged": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\group_users.xml",
+        "source": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\src\\main\\res\\layout\\group_users.xml"
+    },
+    {
+        "merged": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat_screen.xml",
+        "source": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\src\\main\\res\\layout\\chat_screen.xml"
+    },
+    {
+        "merged": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat_time_stamp.xml",
+        "source": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\src\\main\\res\\layout\\chat_time_stamp.xml"
+    },
+    {
+        "merged": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\matrix.xml",
+        "source": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\src\\main\\res\\layout\\matrix.xml"
+    },
+    {
+        "merged": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_group_chat.xml",
+        "source": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\src\\main\\res\\layout\\activity_group_chat.xml"
+    },
+    {
+        "merged": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_group_profile.xml",
+        "source": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\src\\main\\res\\layout\\activity_group_profile.xml"
+    },
+    {
+        "merged": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_group.xml",
+        "source": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\src\\main\\res\\layout\\list_group.xml"
+    },
+    {
+        "merged": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\group_users.xml",
+        "source": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\src\\main\\res\\layout\\group_users.xml"
+    },
+    {
+        "merged": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\action_bar.xml",
+        "source": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\src\\main\\res\\layout\\action_bar.xml"
+    },
+    {
+        "merged": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_group_chat.xml",
+        "source": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\src\\main\\res\\layout\\content_group_chat.xml"
+    },
+    {
+        "merged": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\matrix.xml",
+        "source": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\src\\main\\res\\layout\\matrix.xml"
+    },
+    {
+        "merged": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_profile.xml",
+        "source": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\src\\main\\res\\layout\\activity_user_profile.xml"
+    },
+    {
+        "merged": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_group_list.xml",
+        "source": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\src\\main\\res\\layout\\activity_group_list.xml"
+    },
+    {
+        "merged": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_group_chat.xml",
+        "source": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\src\\main\\res\\layout\\activity_group_chat.xml"
+    },
+    {
+        "merged": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_roster_list.xml",
+        "source": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\src\\main\\res\\layout\\activity_roster_list.xml"
+    },
+    {
+        "merged": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_individual_chat.xml",
+        "source": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\src\\main\\res\\layout\\activity_individual_chat.xml"
+    },
+    {
+        "merged": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_profile.xml",
+        "source": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\src\\main\\res\\layout\\activity_user_profile.xml"
+    },
+    {
+        "merged": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat_screen.xml",
+        "source": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\src\\main\\res\\layout\\chat_screen.xml"
+    },
+    {
+        "merged": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_individual_chat.xml",
+        "source": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\src\\main\\res\\layout\\activity_individual_chat.xml"
+    },
+    {
+        "merged": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\user_layout.xml",
+        "source": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\src\\main\\res\\layout\\user_layout.xml"
+    },
+    {
+        "merged": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_group.xml",
+        "source": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\src\\main\\res\\layout\\list_group.xml"
+    },
+    {
+        "merged": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\user_layout.xml",
+        "source": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\src\\main\\res\\layout\\user_layout.xml"
+    },
+    {
+        "merged": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_friend_list.xml",
+        "source": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\src\\main\\res\\layout\\activity_friend_list.xml"
+    },
+    {
+        "merged": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_group_profile.xml",
+        "source": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\src\\main\\res\\layout\\activity_group_profile.xml"
+    },
+    {
+        "merged": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_friend_list.xml",
+        "source": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\src\\main\\res\\layout\\activity_friend_list.xml"
+    },
+    {
+        "merged": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat_time_stamp.xml",
+        "source": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\src\\main\\res\\layout\\chat_time_stamp.xml"
+    },
+    {
+        "merged": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "E:\\home\\zlinux\\Darshit\\Projects\\ChatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\action_bar.xml",
+        "source": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\src\\main\\res\\layout\\action_bar.xml"
+    },
+    {
+        "merged": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "E:\\Bhavik\\AndroidProjects\\01 DEMO\\27 Chat app\\ChatAPP-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_bar_title_item.xml"
+    }
+]
